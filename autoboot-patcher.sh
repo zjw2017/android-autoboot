@@ -17,7 +17,7 @@ fi
 echo "--- Cleaning..."
 magiskboot cleanup
 
-#unpack
+# unpack
 echo "--- Unpacking img..."
 magiskboot unpack $MAGISK_BOOT
 
